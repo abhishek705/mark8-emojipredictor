@@ -1,2 +1,1 @@
-# mark8-emojipredictor
-Created with CodeSandbox
+this is an emoji predictor created to detect emoji input u give 
